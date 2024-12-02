@@ -1,1 +1,1 @@
-# CourseWorkNeuralNetwork
+# practica
